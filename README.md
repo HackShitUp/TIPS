@@ -27,8 +27,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+![Walkingthrough video](TIPS.md)
 
-<img src='http://imgur.com/LmMHD4p' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='TIPS.md' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
